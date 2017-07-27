@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateProgress", "UpdateProgress\UpdateProgress.csproj", "{73D086B9-FCE4-4CD1-9169-9E5D521D0B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressTest", "ProgressTest\ProgressTest.csproj", "{FCE68BA6-B352-456B-9ABB-D04CE8C95160}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressDemo", "ProgressTest\ProgressDemo.csproj", "{FCE68BA6-B352-456B-9ABB-D04CE8C95160}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
